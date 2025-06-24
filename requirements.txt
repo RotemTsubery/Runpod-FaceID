@@ -1,3 +1,9 @@
 torch
 opencv-python
 pillow
+diffusers
+transformers
+insightface
+scipy
+accelerate
+safetensors
